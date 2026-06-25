@@ -1,5 +1,20 @@
-##TerraVolt
+<h1 align="center"> TerraVolt</h1>
+
+<p align="center">
 Designing Tomorrow's Communities
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-Analytics-orange)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
+</p>
+
+
 
 ## Overview
 TerraVolt is a community-level microgrid planning and sustainability assessment tool developed using Python and MATLAB.
